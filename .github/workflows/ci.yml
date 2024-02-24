@@ -7,7 +7,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v1
+        uses: actions/checkout@v3
 
       - name: Set up JDK 1.17
         uses: actions/setup-java@v2
@@ -34,4 +34,4 @@ jobs:
         run: |
           docker login --username abankhele --password ${{secrets.ACCESS_TOKEN}} ghcr.io
           docker build -t ghcr.io/abankhele/prime-service:latest --file Dockerfile .  
-          docker push ghcr.io/abankhele/prime-service:latest 
+          docker push ghcr.io/abankhele/prime-service:latest
