@@ -1,7 +1,7 @@
-package edu.iu.aav.primesservice.service;
+package edu.iu.abankhele.primesservice.service;
 
-import edu.iu.aav.primesservice.model.Customer;
-import edu.iu.aav.primesservice.repository.AuthenticationDBRepository;
+import edu.iu.abankhele.primesservice.model.Customer;
+import edu.iu.abankhele.primesservice.repository.AuthenticationDBRepository;
 import org.springframework.context.annotation.Bean;
 import org.springframework.security.authentication.AuthenticationManager;
 import org.springframework.security.authentication.ProviderManager;
@@ -12,7 +12,7 @@ import org.springframework.security.core.userdetails.UserDetailsService;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.stereotype.Service;
-import edu.iu.aav.primesservice.repository.IAuthenticationRepository;
+import edu.iu.abankhele.primesservice.repository.IAuthenticationRepository;
 
 import java.io.IOException;
 

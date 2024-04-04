@@ -1,4 +1,4 @@
-package edu.iu.aav.primesservice.security;
+package edu.iu.abankhele.primesservice.security;
 
 import java.security.KeyPair;
 import java.security.KeyPairGenerator;

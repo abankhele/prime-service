@@ -1,4 +1,4 @@
-package edu.iu.aav.primesservice.service;
+package edu.iu.abankhele.primesservice.service;
 
 import java.time.Instant;
 import java.time.temporal.ChronoUnit;

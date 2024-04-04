@@ -1,4 +1,4 @@
-package edu.iu.aav.primesservice;
+package edu.iu.abankhele.primesservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

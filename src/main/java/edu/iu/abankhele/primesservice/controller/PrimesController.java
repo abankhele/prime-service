@@ -1,6 +1,6 @@
-package edu.iu.aav.primesservice.controller;
+package edu.iu.abankhele.primesservice.controller;
 
-import edu.iu.aav.primesservice.service.IPrimesService;
+import edu.iu.abankhele.primesservice.service.IPrimesService;
 
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import edu.iu.aav.primesservice.service.IPrimesService;
+import edu.iu.abankhele.primesservice.service.IPrimesService;
 
 @RestController
 @CrossOrigin

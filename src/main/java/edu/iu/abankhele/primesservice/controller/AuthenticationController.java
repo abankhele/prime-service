@@ -1,4 +1,4 @@
-package edu.iu.aav.primesservice.controller;
+package edu.iu.abankhele.primesservice.controller;
 
 import java.io.IOException;
 
@@ -9,9 +9,9 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 
-import edu.iu.aav.primesservice.model.Customer;
-import edu.iu.aav.primesservice.service.IAuthenticationService;
-import edu.iu.aav.primesservice.service.TokenService;
+import edu.iu.abankhele.primesservice.model.Customer;
+import edu.iu.abankhele.primesservice.service.IAuthenticationService;
+import edu.iu.abankhele.primesservice.service.TokenService;
 
 @RestController
 public class AuthenticationController {

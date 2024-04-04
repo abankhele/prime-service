@@ -1,10 +1,10 @@
-package edu.iu.aav.primesservice;
+package edu.iu.abankhele.primesservice;
 
 import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.Test;
 
-import edu.iu.aav.primesservice.service.PrimesService;
+import edu.iu.abankhele.primesservice.service.PrimesService;
 
 class PrimesServiceTest {
 

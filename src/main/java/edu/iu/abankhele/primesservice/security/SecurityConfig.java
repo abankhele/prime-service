@@ -1,4 +1,4 @@
-package edu.iu.aav.primesservice.security;
+package edu.iu.abankhele.primesservice.security;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

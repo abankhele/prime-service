@@ -1,6 +1,6 @@
-package edu.iu.aav.primesservice.repository;
+package edu.iu.abankhele.primesservice.repository;
 
-import edu.iu.aav.primesservice.model.Customer;
+import edu.iu.abankhele.primesservice.model.Customer;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 
