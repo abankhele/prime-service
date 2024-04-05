@@ -1,4 +1,4 @@
-package edu.iu.aav.primesservice.service;
+package edu.iu.abankel.primesservice.service;
 
 public interface IPrimesService {
 

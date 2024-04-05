@@ -1,4 +1,4 @@
-package edu.iu.aav.primesservice.model;
+package edu.iu.abankel.primesservice.model;
 
 
 import jakarta.persistence.Entity;

@@ -1,10 +1,10 @@
-package edu.iu.aav.primesservice;
+package edu.iu.abankel.primesservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 import static org.junit.jupiter.api.Assertions.*;
 
-import edu.iu.aav.primesservice.service.PrimesService;
+import edu.iu.abankel.primesservice.service.PrimesService;
 
 @SpringBootTest
 class PrimesServiceApplicationTests {

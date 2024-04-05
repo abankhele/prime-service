@@ -1,8 +1,8 @@
-package edu.iu.aav.primesservice.repository;
+package edu.iu.abankel.primesservice.repository;
 
 import java.io.IOException;
 
-import edu.iu.aav.primesservice.model.Customer;
+import edu.iu.abankel.primesservice.model.Customer;
 
 public interface IAuthenticationRepository {
 

@@ -1,4 +1,1 @@
-# Software Engineering Practicum
-### Group Members
-#### - Aniket Sharma
-#### - Archita Palkar
+SE Practicum 12 Soham Pingat and Akanksha Bankele

@@ -1,4 +1,4 @@
-package edu.iu.aav.primesservice.repository;
+package edu.iu.abankel.primesservice.repository;
 
 import java.io.File;
 import java.io.IOException;
@@ -13,7 +13,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Repository;
 
-import edu.iu.aav.primesservice.model.Customer;
+import edu.iu.abankel.primesservice.model.Customer;
 
 @Repository
 public class AuthenticationFileRepository implements IAuthenticationRepository {
